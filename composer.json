@@ -1,6 +1,5 @@
 {
 	"name": "jeremy-rafflin/package-tuto",
-	"version": "0.0.1",
 	"repositories": [
 		{
 			"type": "composer",
