@@ -1,12 +1,6 @@
 {
 	"name": "jeremy-rafflin/test_composer",
-	"repositories": [
-		{
-			"type": "composer",
-			"url": "https://packages.zendframework.com/"
-		}
-	],
 	"require": {
-		"zendframework/zendframework": "dev-master"
-	}
+        "monolog/monolog": "1.0.*"
+    }
 }
