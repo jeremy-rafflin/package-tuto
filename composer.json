@@ -1,0 +1,13 @@
+{
+	"name": "jeremy-rafflin/package-tuto",
+	"version": "0.0.1",
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packages.zendframework.com/"
+		}
+	],
+	"require": {
+		"zendframework/zendframework": "dev-master"
+	}
+}
