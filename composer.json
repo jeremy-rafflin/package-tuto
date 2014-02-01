@@ -1,5 +1,12 @@
 {
 	"name": "jeremy-rafflin/test_composer",
+	"name": "jeremy-rafflin/package-tuto",
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packages.zendframework.com/"
+		}
+	],
 	"require": {
         "zendframework/zendframework": "2.2.5"
     }
